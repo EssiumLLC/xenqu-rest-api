@@ -18,10 +18,17 @@ Need more information on setting up a Xenqu account?  Head on over to https://es
 
 ## Other Implementations
 
+#### Ruby
 We've open sourced our Ruby implementation of our API which can serve as a good reference for other implementation if you don't use Ruby.
 
 https://github.com/EssiumLLC/lib-xenqu-ruby
 
+#### .NET
 We also started a .NET implementation which can access reports.  We've used this in RPA projects using Automation Anywhere.  It should also be possible to get it to work with UiPath.  Or it can used stand-alone to build utility apps.
 
 https://github.com/EssiumLLC/lib-xenqu-dotnet
+
+#### NodeJS (with TypeScript support)
+We have also written a NodeJS implementation of our API
+
+https://github.com/EssiumLLC/lib-xenqu-nodejs
