@@ -14,7 +14,7 @@ You provide the cert (we need the public key, you keep the private key safe) and
 
     openssl req -newkey rsa:2048 -nodes -keyout privatekey.pem -x509 -out publickey.pem
 
-Need more information on setting up a Xenqu account?  Head on over to https://essium.co to learn more and contact sales.
+Need more information on setting up a Xenqu account?  Head on over to https://essiumlabs.com to learn more and contact sales.
 
 ## Other Implementations
 
